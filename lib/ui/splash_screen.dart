@@ -2,7 +2,7 @@ import 'package:flutter/material.dart';
 import 'package:flutter_bloc/flutter_bloc.dart';
 import 'package:login_linkbg/ui/home_screen.dart';
 import 'package:login_linkbg/ui/login_screen.dart';
-import 'package:login_linkbg/bloc/splash_cubit.dart';
+import 'package:login_linkbg/bloc/splash_provider.dart';
 import '../utils/navigator_utils.dart';
 
 class SplashScreen extends StatelessWidget {
